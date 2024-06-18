@@ -1,0 +1,69 @@
+Cur.,Imp.,Event,Actual,Forecast,Previous,datetime
+USD,1.0,Building Permits (MoM) (Dec),-1.60%,,-10.60%,2023-01-19 13:30:00
+USD,2.0,Building Permits (Dec),1.330M,1.370M,1.351M,2023-01-19 13:30:00
+USD,2.0,Building Permits (Dec),1.337M,,1.351M,2023-01-26 13:00:00
+USD,1.0,Building Permits (MoM) (Dec),-1.00%,,-10.60%,2023-01-26 13:00:00
+USD,2.0,Building Permits (Jan),1.339M,1.350M,1.337M,2023-02-16 13:30:00
+USD,1.0,Building Permits (MoM) (Jan),0.10%,,-1.00%,2023-02-16 13:30:00
+USD,2.0,Building Permits (Jan),1.339M,,1.337M,2023-02-24 12:30:00
+USD,1.0,Building Permits (MoM) (Jan),0.10%,,-1.00%,2023-02-24 12:30:00
+USD,2.0,Building Permits (Feb),1.524M,1.340M,1.339M,2023-03-16 12:30:00
+USD,1.0,Building Permits (MoM) (Feb),13.80%,,0.10%,2023-03-16 12:30:00
+USD,1.0,Building Permits (MoM) (Feb),15.10%,13.80%,0.10%,2023-03-23 12:30:00
+USD,2.0,Building Permits (Feb),1.550M,1.524M,1.339M,2023-03-23 12:30:00
+USD,1.0,Building Permits (MoM) (Mar),-8.80%,-6.00%,15.80%,2023-04-18 12:30:00
+USD,2.0,Building Permits (Mar),1.413M,1.450M,1.550M,2023-04-18 12:30:00
+USD,2.0,Building Permits (Mar),1.430M,1.413M,1.550M,2023-04-25 12:10:00
+USD,1.0,Building Permits (MoM) (Mar),-7.70%,-8.80%,15.80%,2023-04-25 12:10:00
+USD,2.0,Building Permits (Apr),1.416M,1.437M,1.437M,2023-05-17 12:30:00
+USD,1.0,Building Permits (MoM) (Apr),-1.50%,,-3.00%,2023-05-17 12:30:00
+USD,1.0,Building Permits (MoM) (Apr),-1.40%,-1.50%,-7.70%,2023-05-23 12:00:00
+USD,2.0,Building Permits (Apr),1.417M,1.416M,1.437M,2023-05-23 12:00:00
+USD,1.0,Building Permits (MoM) (May),5.20%,,-1.40%,2023-06-20 12:30:00
+USD,2.0,Building Permits (May),1.491M,1.425M,1.417M,2023-06-20 12:30:00
+USD,1.0,Building Permits (MoM) (May),5.60%,5.20%,-1.40%,2023-06-27 11:45:00
+USD,2.0,Building Permits (May),1.496M,1.491M,1.417M,2023-06-27 11:45:00
+USD,1.0,Building Permits (MoM) (Jun),-3.70%,,5.60%,2023-07-19 12:30:00
+USD,2.0,Building Permits (Jun),1.440M,1.490M,1.496M,2023-07-19 12:30:00
+USD,2.0,Building Permits (Jun),1.441M,1.440M,1.496M,2023-07-26 12:00:00
+USD,1.0,Building Permits (MoM) (Jun),-3.70%,-3.70%,5.60%,2023-07-26 12:00:00
+USD,2.0,Building Permits (Jul),1.442M,1.463M,1.441M,2023-08-16 12:30:00
+USD,1.0,Building Permits (MoM) (Jul),0.10%,-1.70%,-3.70%,2023-08-16 12:30:00
+USD,1.0,Building Permits (MoM) (Jul),0.10%,0.10%,-3.70%,2023-08-23 12:00:00
+USD,2.0,Building Permits (Jul),1.443M,1.442M,1.441M,2023-08-23 12:00:00
+USD,2.0,Building Permits (Aug),1.543M,1.440M,1.443M,2023-09-19 12:30:00
+USD,1.0,Building Permits (MoM) (Aug),6.90%,,0.10%,2023-09-19 12:30:00
+USD,2.0,Building Permits (Aug),1.541M,1.543M,1.443M,2023-09-26 12:00:00
+USD,1.0,Building Permits (MoM) (Aug),6.80%,6.90%,0.10%,2023-09-26 12:00:00
+USD,1.0,Building Permits (MoM) (Sep),-4.40%,,6.80%,2023-10-18 12:30:00
+USD,2.0,Building Permits (Sep),1.473M,1.455M,1.541M,2023-10-18 12:30:00
+USD,2.0,Building Permits (Sep),1.471M,1.473M,1.541M,2023-10-25 11:40:00
+USD,1.0,Building Permits (MoM) (Sep),-4.50%,-4.40%,6.80%,2023-10-25 11:40:00
+USD,2.0,Building Permits (Oct),1.487M,1.450M,1.471M,2023-11-17 13:30:00
+USD,1.0,Building Permits (MoM) (Oct),1.10%,,-4.50%,2023-11-17 13:30:00
+USD,1.0,Building Permits (MoM) (Oct),1.80%,1.10%,-4.50%,2023-11-27 12:50:00
+USD,2.0,Building Permits (Oct),1.498M,1.487M,1.471M,2023-11-27 12:50:00
+USD,1.0,Building Permits (MoM) (Nov),-2.50%,,1.80%,2023-12-19 13:30:00
+USD,2.0,Building Permits (Nov),1.460M,1.470M,1.498M,2023-12-19 13:30:00
+USD,2.0,Building Permits (Nov),1.467M,1.460M,1.498M,2023-12-22 12:30:00
+USD,1.0,Building Permits (MoM) (Nov),-2.10%,-2.50%,1.80%,2023-12-22 12:30:00
+USD,1.0,Building Permits (MoM) (Dec),1.90%,,-2.10%,2024-01-18 13:30:00
+USD,2.0,Building Permits (Dec),1.495M,1.480M,1.467M,2024-01-18 13:30:00
+USD,2.0,Building Permits,1.493M,1.495M,1.467M,2024-01-25 12:40:00
+USD,1.0,Building Permits (MoM) (Dec),1.80%,,-2.10%,2024-01-25 12:40:00
+USD,2.0,Building Permits (Jan),1.470M,1.509M,1.493M,2024-02-16 13:30:00
+USD,1.0,Building Permits (MoM) (Jan),-1.50%,1.30%,1.80%,2024-02-16 13:30:00
+USD,2.0,Building Permits,1.489M,1.470M,1.493M,2024-02-26 13:30:00
+USD,1.0,Building Permits (MoM),-0.30%,-1.50%,1.80%,2024-02-26 13:30:00
+USD,2.0,Building Permits (Feb),1.518M,1.500M,1.489M,2024-03-19 12:30:00
+USD,1.0,Building Permits (MoM) (Feb),1.90%,,-0.30%,2024-03-19 12:30:00
+USD,2.0,Building Permits,1.524M,1.518M,1.489M,2024-03-25 11:20:00
+USD,1.0,Building Permits (MoM),2.40%,1.90%,-0.30%,2024-03-25 11:20:00
+USD,1.0,Building Permits (MoM) (Mar),-4.30%,-0.90%,2.30%,2024-04-16 12:30:00
+USD,2.0,Building Permits (Mar),1.458M,1.514M,1.523M,2024-04-16 12:30:00
+USD,1.0,Building Permits (MoM),-3.70%,-4.30%,2.40%,2024-04-23 11:30:00
+USD,2.0,Building Permits,1.467M,1.458M,1.524M,2024-04-23 11:30:00
+USD,2.0,Building Permits (Apr),1.440M,1.480M,1.485M,2024-05-16 12:30:00
+USD,1.0,Building Permits (MoM) (Apr),-3.00%,,-5.00%,2024-05-16 12:30:00
+USD,2.0,Building Permits,,1.440M,1.467M,2024-05-23 12:30:00
+USD,1.0,Building Permits (MoM),,-3.00%,-3.70%,2024-05-23 12:30:00

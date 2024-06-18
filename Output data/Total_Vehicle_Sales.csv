@@ -1,0 +1,18 @@
+Cur.,Imp.,Event,Actual,Forecast,Previous,datetime
+USD,,Total Vehicle Sales,13.30M,,14.10M,2023-01-04 23:00:00
+USD,1.0,Total Vehicle Sales,15.70M,,13.30M,2023-02-01 13:00:00
+USD,1.0,Total Vehicle Sales,14.90M,,15.70M,2023-03-01 13:00:00
+USD,1.0,Total Vehicle Sales,14.84M,,14.90M,2023-04-03 13:00:00
+USD,1.0,Total Vehicle Sales,15.91M,,14.84M,2023-05-03 13:00:00
+USD,1.0,Total Vehicle Sales,15.10M,,15.91M,2023-06-01 13:00:00
+USD,1.0,Total Vehicle Sales,15.70M,15.30M,15.10M,2023-07-05 14:00:00
+USD,1.0,Total Vehicle Sales,15.70M,15.70M,15.70M,2023-08-01 14:00:00
+USD,1.0,Total Vehicle Sales,15.00M,15.50M,15.70M,2023-09-01 14:00:00
+USD,1.0,Total Vehicle Sales,15.67M,,15.33M,2023-10-06 10:50:00
+USD,1.0,Total Vehicle Sales,15.50M,15.30M,15.68M,2023-11-02 14:00:00
+USD,1.0,Total Vehicle Sales,15.32M,,15.44M,2023-12-05 15:00:00
+USD,1.0,Total Vehicle Sales,15.83M,15.50M,15.34M,2024-01-04 15:00:00
+USD,1.0,Total Vehicle Sales (Jan),15.00M,15.70M,16.12M,2024-02-05 15:00:00
+USD,1.0,Total Vehicle Sales,15.81M,,14.92M,2024-03-05 11:15:00
+USD,1.0,Total Vehicle Sales,15.50M,15.90M,15.80M,2024-04-02 22:00:00
+USD,1.0,Total Vehicle Sales,15.74M,,15.50M,2024-05-03 14:00:00

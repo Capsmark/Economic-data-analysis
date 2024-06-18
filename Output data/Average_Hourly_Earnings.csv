@@ -1,0 +1,37 @@
+Cur.,Imp.,Event,Actual,Forecast,Previous,datetime
+USD,2.0,Average Hourly Earnings (YoY) (YoY) (Dec),4.60%,5.00%,4.80%,2023-01-06 13:30:00
+USD,3.0,Average Hourly Earnings (MoM) (Dec),0.30%,0.40%,0.40%,2023-01-06 13:30:00
+USD,3.0,Average Hourly Earnings (MoM) (Jan),0.30%,0.30%,0.40%,2023-02-03 13:30:00
+USD,2.0,Average Hourly Earnings (YoY) (YoY) (Jan),4.40%,4.30%,4.80%,2023-02-03 13:30:00
+USD,3.0,Average Hourly Earnings (MoM) (Feb),0.20%,0.30%,0.30%,2023-03-10 13:30:00
+USD,2.0,Average Hourly Earnings (YoY) (YoY) (Feb),4.60%,4.70%,4.40%,2023-03-10 13:30:00
+USD,3.0,Average Hourly Earnings (MoM) (Mar),0.30%,0.30%,0.20%,2023-04-07 12:30:00
+USD,2.0,Average Hourly Earnings (YoY) (YoY) (Mar),4.20%,4.30%,4.60%,2023-04-07 12:30:00
+USD,3.0,Average Hourly Earnings (MoM) (Apr),0.50%,0.30%,0.30%,2023-05-04 12:30:00
+USD,2.0,Average Hourly Earnings (YoY) (YoY) (Apr),4.40%,4.20%,4.30%,2023-05-04 12:30:00
+USD,3.0,Average Hourly Earnings (MoM) (May),0.30%,0.40%,0.40%,2023-06-02 12:30:00
+USD,2.0,Average Hourly Earnings (YoY) (YoY) (May),4.30%,4.30%,4.40%,2023-06-02 12:30:00
+USD,3.0,Average Hourly Earnings (MoM) (Jun),0.40%,0.30%,0.40%,2023-07-07 12:30:00
+USD,2.0,Average Hourly Earnings (YoY) (YoY) (Jun),4.40%,4.20%,4.40%,2023-07-07 12:30:00
+USD,2.0,Average Hourly Earnings (YoY) (YoY) (Jul),4.40%,4.20%,4.40%,2023-08-04 12:30:00
+USD,3.0,Average Hourly Earnings (MoM) (Jul),0.40%,0.30%,0.40%,2023-08-04 12:30:00
+USD,3.0,Average Hourly Earnings (MoM) (Aug),0.20%,0.30%,0.40%,2023-09-01 12:30:00
+USD,2.0,Average Hourly Earnings (YoY) (YoY) (Aug),4.30%,4.40%,4.40%,2023-09-01 12:30:00
+USD,3.0,Average Hourly Earnings (MoM) (Sep),0.20%,0.30%,0.20%,2023-10-06 12:30:00
+USD,2.0,Average Hourly Earnings (YoY) (YoY) (Sep),4.20%,4.30%,4.30%,2023-10-06 12:30:00
+USD,2.0,Average Hourly Earnings (YoY) (YoY) (Oct),4.10%,4.00%,4.30%,2023-11-03 12:30:00
+USD,3.0,Average Hourly Earnings (MoM) (Oct),0.20%,0.30%,0.30%,2023-11-03 12:30:00
+USD,3.0,Average Hourly Earnings (MoM) (Nov),0.40%,0.30%,0.20%,2023-12-08 13:30:00
+USD,2.0,Average Hourly Earnings (YoY) (YoY) (Nov),4.00%,4.00%,4.00%,2023-12-08 13:30:00
+USD,3.0,Average Hourly Earnings (MoM) (Dec),0.40%,0.30%,0.40%,2024-01-05 13:30:00
+USD,2.0,Average Hourly Earnings (YoY) (YoY) (Dec),4.10%,3.90%,4.00%,2024-01-05 13:30:00
+USD,2.0,Average Hourly Earnings (YoY) (YoY) (Jan),4.50%,4.10%,4.30%,2024-02-02 13:30:00
+USD,3.0,Average Hourly Earnings (MoM) (Jan),0.60%,0.30%,0.40%,2024-02-02 13:30:00
+USD,3.0,Average Hourly Earnings (MoM) (Feb),0.10%,0.20%,0.50%,2024-03-08 13:30:00
+USD,2.0,Average Hourly Earnings (YoY) (YoY) (Feb),4.30%,4.40%,4.40%,2024-03-08 13:30:00
+USD,2.0,Average Hourly Earnings (YoY) (YoY) (Mar),4.10%,4.10%,4.30%,2024-04-05 12:30:00
+USD,3.0,Average Hourly Earnings (MoM) (Mar),0.30%,0.30%,0.20%,2024-04-05 12:30:00
+USD,2.0,Average Hourly Earnings (YoY) (YoY) (Apr),3.90%,4.00%,4.10%,2024-05-03 12:30:00
+USD,3.0,Average Hourly Earnings (MoM) (Apr),0.20%,0.30%,0.30%,2024-05-03 12:30:00
+USD,3.0,Average Hourly Earnings (MoM) (May),,,0.20%,2024-06-07 12:30:00
+USD,2.0,Average Hourly Earnings (YoY) (YoY) (May),,,3.90%,2024-06-07 12:30:00
