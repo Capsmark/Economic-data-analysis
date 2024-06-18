@@ -1,0 +1,370 @@
+Date,Time,Cur.,Imp.,Event,Actual,Forecast,Previous
+"Tuesday, January 3, 2023",14:45,USD,3,S&P Global US Manufacturing PMI (Dec),46.2,46.2,47.7
+,15:00,USD,2,Construction Spending (MoM) (Nov),0.20%,-0.40%,-0.20%
+,16:30,USD,1,3-Month Bill Auction,4.41%,,4.35%
+,16:30,USD,1,6-Month Bill Auction,4.64%,,4.60%
+"Wednesday, January 4, 2023",12:00,USD,,MBA 30-Year Mortgage Rate,6.58%,,6.34%
+,12:00,USD,,MBA Mortgage Applications (WoW),-10.30%,,0.90%
+,12:00,USD,,MBA Purchase Index,160.2,,182.5
+,12:00,USD,,Mortgage Market Index,184.5,,212.5
+,12:00,USD,,Mortgage Refinance Index,310.9,,371.4
+,13:55,USD,,Redbook (YoY),10.20%,,9.60%
+,15:00,USD,,ISM Manufacturing Employment (Dec),51.4,48.3,48.4
+,15:00,USD,,ISM Manufacturing New Orders Index (Dec),45.2,,47.2
+,15:00,USD,,ISM Manufacturing PMI (Dec),48.4,48.5,49
+,15:00,USD,,ISM Manufacturing Prices (Dec),39.4,42.6,43
+,15:00,USD,,JOLTs Job Openings (Nov),10.458M,10.000M,10.512M
+,19:00,USD,,FOMC Meeting Minutes,,,
+,20:30,USD,,Fed's Balance Sheet,"8,507.43B",,"8,551.17B"
+,21:30,USD,,API Weekly Crude Oil Stock,3.298M,,-1.300M
+,23:00,USD,,Total Vehicle Sales,13.30M,,14.10M
+"Thursday, January 5, 2023",12:30,USD,,Challenger Job Cuts (Dec),43.651K,,76.835K
+,12:30,USD,,Challenger Job Cuts (YoY),129.10%,,416.50%
+,13:15,USD,,ADP Nonfarm Employment Change (Dec),235K,150K,182K
+,13:30,USD,,Continuing Jobless Claims,"1,694K","1,708K","1,718K"
+,13:30,USD,,Exports,251.90B,,256.90B
+,13:30,USD,,Imports,313.40B,,334.80B
+,13:30,USD,,Initial Jobless Claims,204K,225K,223K
+,13:30,USD,,Jobless Claims 4-Week Avg.,213.75K,,220.50K
+,13:30,USD,,Trade Balance (Nov),-61.50B,-73.00B,-77.80B
+,14:20,USD,,FOMC Member Bostic Speaks,,,
+,14:30,USD,,All Car Sales (Dec),2.78M,,3.16M
+,14:30,USD,,All Truck Sales (Dec),10.53M,,11.06M
+,14:45,USD,,S&P Global Composite PMI (Dec),45,44.6,46.4
+,14:45,USD,,S&P Global Services PMI (Dec),44.7,44.4,46.2
+,15:30,USD,,Natural Gas Storage,-221B,-228B,-213B
+,16:00,USD,,Crude Oil Inventories,1.694M,1.154M,0.718M
+,16:00,USD,,EIA Refinery Crude Runs (WoW),-2.329M,,0.173M
+,16:00,USD,,Crude Oil Imports,-1.282M,,1.328M
+,16:00,USD,,Cushing Crude Oil Inventories,0.244M,,-0.195M
+,16:00,USD,,Distillate Fuel Production,-1.050M,,-0.017M
+,16:00,USD,,EIA Weekly Distillates Stocks,-1.427M,-0.396M,0.282M
+,16:00,USD,,Gasoline Production,-1.678M,,0.592M
+,16:00,USD,,Heating Oil Stockpiles,-0.476M,,0.011M
+,16:00,USD,,EIA Weekly Refinery Utilization Rates (WoW),-12.40%,-2.90%,1.10%
+,16:00,USD,,Gasoline Inventories,-0.346M,-0.486M,-3.105M
+,16:30,USD,,4-Week Bill Auction,4.10%,,3.83%
+,16:30,USD,,8-Week Bill Auction,4.43%,,4.25%
+,18:20,USD,,FOMC Member Bullard Speaks,,,
+"Friday, January 6, 2023",13:30,USD,3,Average Hourly Earnings (MoM) (Dec),0.30%,0.40%,0.40%
+,13:30,USD,2,Average Hourly Earnings (YoY) (YoY) (Dec),4.60%,5.00%,4.80%
+,13:30,USD,1,Average Weekly Hours (Dec),34.3,34.4,34.4
+,13:30,USD,1,Government Payrolls (Dec),3.0K,,54.0K
+,13:30,USD,1,Manufacturing Payrolls (Dec),8K,10K,8K
+,13:30,USD,3,Nonfarm Payrolls (Dec),223K,200K,256K
+,13:30,USD,2,Participation Rate (Dec),62.30%,,62.20%
+,13:30,USD,2,Private Nonfarm Payrolls (Dec),220K,180K,202K
+,13:30,USD,2,U6 Unemployment Rate (Dec),6.50%,,6.70%
+,13:30,USD,3,Unemployment Rate (Dec),3.50%,3.70%,3.60%
+,15:00,USD,1,Durables Excluding Defense (MoM) (Nov),-2.70%,,-2.60%
+,15:00,USD,1,Durables Excluding Transport (MoM) (Nov),0.10%,,0.20%
+,15:00,USD,2,Factory Orders (MoM) (Nov),-1.80%,-0.80%,0.40%
+,15:00,USD,1,Factory orders ex transportation (MoM) (Nov),-0.80%,,0.10%
+,15:00,USD,1,ISM Non-Manufacturing Business Activity (Dec),54.7,59.5,64.7
+,15:00,USD,2,ISM Non-Manufacturing Employment (Dec),49.8,,51.5
+,15:00,USD,1,ISM Non-Manufacturing New Orders (Dec),45.2,,56
+,15:00,USD,3,ISM Non-Manufacturing PMI (Dec),49.6,55,56.5
+,15:00,USD,3,ISM Non-Manufacturing Prices (Dec),67.6,,70
+,16:15,USD,1,Fed Governor Cook Speaks,,,
+,16:15,USD,2,FOMC Member Bostic Speaks,,,
+,17:15,USD,1,FOMC Member Barkin Speaks,,,
+,18:00,USD,2,U.S. Baker Hughes Oil Rig Count,618,,621
+,18:00,USD,2,U.S. Baker Hughes Total Rig Count,772,,779
+,20:30,USD,1,CFTC Aluminium speculative net positions,5.3K,,5.0K
+,20:30,USD,1,CFTC Copper speculative net positions,-4.7K,,0.7K
+,20:30,USD,1,CFTC Corn speculative net positions,267.5K,,235.1K
+,20:30,USD,2,CFTC Crude Oil speculative net positions,227.6K,,247.6K
+,20:30,USD,2,CFTC Gold speculative net positions,141.7K,,136.9K
+,20:30,USD,2,CFTC Nasdaq 100 speculative net positions,1.4K,,1.2K
+,20:30,USD,1,CFTC Natural Gas speculative net positions,-169.8K,,-160.6K
+,20:30,USD,2,CFTC S&P 500 speculative net positions,-167.3K,,-174.3K
+,20:30,USD,1,CFTC Silver speculative net positions,30.9K,,31.0K
+,20:30,USD,1,CFTC Soybeans speculative net positions,148.6K,,133.5K
+,20:30,USD,1,CFTC Wheat speculative net positions,-32.3K,,-36.3K
+,20:30,USD,2,FOMC Member Bostic Speaks,,,
+"Monday, January 9, 2023",15:00,USD,1,CB Employment Trends Index (Dec),116.31,,117.14
+,16:00,USD,2,NY Fed 1-Year Consumer Inflation Expectations,5.00%,,5.20%
+,16:30,USD,1,3-Month Bill Auction,4.56%,,4.41%
+,16:30,USD,1,6-Month Bill Auction,4.71%,,4.64%
+,20:00,USD,2,Consumer Credit (Nov),27.96B,25.00B,29.12B
+"Tuesday, January 10, 2023",11:00,USD,1,NFIB Small Business Optimism (Dec),89.8,91.5,91.9
+,13:55,USD,1,Redbook (YoY),5.30%,,10.20%
+,14:00,USD,3,Fed Chair Powell Speaks,,,
+,15:00,USD,1,IBD/TIPP Economic Optimism,42.3,41.7,42.9
+,15:00,USD,1,Wholesale Inventories (MoM),1.00%,1.00%,1.00%
+,15:00,USD,1,Wholesale Trade Sales (MoM) (Nov),-0.60%,0.50%,0.40%
+,17:00,USD,2,EIA Short-Term Energy Outlook,,,
+,18:00,USD,2,3-Year Note Auction,3.98%,,4.09%
+,21:30,USD,2,API Weekly Crude Oil Stock,14.865M,-2.375M,3.298
+"Wednesday, January 11, 2023",12:00,USD,1,MBA 30-Year Mortgage Rate,6.42%,,6.58%
+,12:00,USD,1,MBA Mortgage Applications (WoW),1.20%,,-10.30%
+,12:00,USD,1,MBA Purchase Index,159.4,,160.2
+,12:00,USD,1,Mortgage Market Index,186.7,,184.5
+,12:00,USD,1,Mortgage Refinance Index,326.7,,310.9
+,15:30,USD,3,Crude Oil Inventories,18.962M,-2.243M,1.694M
+,15:30,USD,1,EIA Refinery Crude Runs (WoW),0.831M,,-2.329M
+,15:30,USD,1,Crude Oil Imports,2.708M,,-1.282M
+,15:30,USD,2,Cushing Crude Oil Inventories,2.511M,,0.244M
+,15:30,USD,1,Distillate Fuel Production,0.509M,,-1.050M
+,15:30,USD,1,EIA Weekly Distillates Stocks,-1.069M,-0.472M,-1.427M
+,15:30,USD,1,Gasoline Production,0.067M,,-1.678M
+,15:30,USD,1,Heating Oil Stockpiles,0.405M,,-0.476M
+,15:30,USD,1,EIA Weekly Refinery Utilization Rates (WoW),4.50%,6.10%,-12.40%
+,15:30,USD,1,Gasoline Inventories,4.114M,1.186M,-0.346M
+,15:30,USD,1,Thomson Reuters IPSOS PCSI (Jan),50.23,,49.76
+,18:00,USD,3,10-Year Note Auction,3.58%,,3.63%
+,20:30,USD,2,Fed's Balance Sheet,"8,508.59B",,"8,507.43B"
+"Thursday, January 12, 2023",12:30,USD,2,FOMC Member Harker Speaks,,,
+,13:30,USD,2,Continuing Jobless Claims,"1,634K","1,705K","1,697K"
+,13:30,USD,3,Core CPI (MoM) (Dec),0.30%,0.30%,0.30%
+,13:30,USD,2,Core CPI (YoY) (Dec),5.70%,5.70%,6.00%
+,13:30,USD,1,Core CPI Index (Dec),300.97,,300.07
+,13:30,USD,3,CPI (YoY) (Dec),6.50%,6.50%,7.10%
+,13:30,USD,3,CPI (MoM) (Dec),-0.10%,0.00%,0.20%
+,13:30,USD,1,"CPI Index, n.s.a. (Dec)",296.8,296.7,297.71
+,13:30,USD,1,"CPI Index, s.a (Dec)",298.11,,298.35
+,13:30,USD,1,"CPI, n.s.a (MoM) (Dec)",-0.31%,,-0.10%
+,13:30,USD,3,Initial Jobless Claims,205K,215K,206K
+,13:30,USD,1,Jobless Claims 4-Week Avg.,212.50K,,214.25K
+,13:30,USD,1,Real Earnings (MoM) (Dec),0.10%,,0.20%
+,15:30,USD,1,Natural Gas Storage,11B,-15B,-221B
+,16:00,USD,1,Cleveland CPI (MoM) (Dec),0.40%,,0.50%
+,16:30,USD,1,4-Week Bill Auction,4.37%,,4.10%
+,16:30,USD,1,8-Week Bill Auction,4.47%,,4.43%
+,17:00,USD,2,WASDE Report,,,
+,18:00,USD,3,30-Year Bond Auction,3.59%,,3.51%
+,19:00,USD,2,Federal Budget Balance (Dec),-85.0B,-70.0B,-249.0B
+,21:30,USD,1,Reserve Balances with Federal Reserve Banks,3.117T,,3.050T
+"Friday, January 13, 2023",12:30,USD,2,FOMC Member Harker Speaks,,,
+,12:30,USD,1,Import Price Index ex Petroleum (MoM),0.80%,,-0.30%
+,13:30,USD,1,Export Price Index (YoY),5.00%,,6.30%
+,13:30,USD,2,Export Price Index (MoM) (Dec),-2.60%,-0.50%,-0.40%
+,13:30,USD,1,Import Price Index (YoY),3.50%,,2.70%
+,13:30,USD,2,Import Price Index (MoM) (Dec),0.40%,-0.90%,-0.70%
+,15:00,USD,2,Michigan 1-Year Inflation Expectations (Jan),4.00%,,4.40%
+,15:00,USD,2,Michigan 5-Year Inflation Expectations (Jan),3.00%,,2.90%
+,15:00,USD,2,Michigan Consumer Expectations (Jan),62,59.5,59.9
+,15:00,USD,2,Michigan Consumer Sentiment (Jan),64.6,60.5,59.7
+,15:00,USD,1,Michigan Current Conditions (Jan),68.6,60,59.4
+,18:00,USD,2,U.S. Baker Hughes Oil Rig Count,623,,618
+,18:00,USD,2,U.S. Baker Hughes Total Rig Count,725,,772
+,20:30,USD,1,CFTC Aluminium speculative net positions,5.2K,,5.3K
+,20:30,USD,1,CFTC Copper speculative net positions,10.2K,,-4.7K
+,20:30,USD,1,CFTC Corn speculative net positions,233.8K,,267.5K
+,20:30,USD,2,CFTC Crude Oil speculative net positions,205.2K,,227.6K
+,20:30,USD,2,CFTC Gold speculative net positions,150.5K,,141.7K
+,20:30,USD,2,CFTC Nasdaq 100 speculative net positions,-8.2K,,1.4K
+,20:30,USD,1,CFTC Natural Gas speculative net positions,-172.5K,,-169.8K
+,20:30,USD,2,CFTC S&P 500 speculative net positions,-213.2K,,-167.3K
+,20:30,USD,1,CFTC Silver speculative net positions,29.0K,,30.9K
+,20:30,USD,1,CFTC Soybeans speculative net positions,140.3K,,148.6K
+,20:30,USD,1,CFTC Wheat speculative net positions,-39.7K,,-32.3K
+"Tuesday, January 17, 2023",12:00,USD,2,OPEC Monthly Report,,,
+,13:30,USD,2,NY Empire State Manufacturing Index (Jan),-32.9,-8.7,-11.2
+,16:30,USD,1,3-Month Bill Auction,4.56%,,4.56%
+,16:30,USD,1,6-Month Bill Auction,4.69%,,4.71%
+,20:00,USD,2,FOMC Member Williams Speaks,,,
+"Wednesday, January 18, 2023",9:00,USD,2,IEA Monthly Report,,,
+,12:00,USD,1,MBA 30-Year Mortgage Rate,6.23%,,6.42%
+,12:00,USD,1,MBA Mortgage Applications (WoW),27.90%,,1.20%
+,12:00,USD,1,MBA Purchase Index,198.7,,159.4
+,12:00,USD,1,Mortgage Market Index,238.7,,186.7
+,12:00,USD,1,Mortgage Refinance Index,438.3,,326.7
+,13:30,USD,1,PPI ex. Food/Energy/Transport (MoM) (Dec),0.10%,,0.30%
+,13:30,USD,1,PPI ex. Food/Energy/Transport (YoY) (Dec),4.60%,,4.90%
+,13:30,USD,2,Core PPI (MoM) (Dec),0.10%,0.10%,0.20%
+,13:30,USD,1,Core PPI (YoY) (Dec),5.50%,5.70%,6.20%
+,13:30,USD,3,Core Retail Sales (MoM) (Dec),-1.10%,-0.40%,-0.60%
+,13:30,USD,3,PPI (MoM) (Dec),-0.50%,-0.10%,0.20%
+,13:30,USD,1,PPI (YoY) (Dec),6.20%,6.80%,7.30%
+,13:30,USD,2,Retail Control (MoM) (Dec),-0.70%,-0.30%,-0.20%
+,13:30,USD,3,Retail Sales (MoM) (Dec),-1.10%,-0.80%,-1.00%
+,13:30,USD,1,Retail Sales (YoY) (Dec),6.02%,,6.01%
+,13:30,USD,1,Retail Sales Ex Gas/Autos (MoM) (Dec),-0.70%,,-0.50%
+,13:55,USD,1,Redbook (YoY),5.00%,,5.30%
+,14:00,USD,2,FOMC Member Bostic Speaks,,,
+,14:15,USD,1,Capacity Utilization Rate (Dec),78.80%,79.60%,79.40%
+,14:15,USD,2,Industrial Production (YoY) (Dec),1.65%,,2.18%
+,14:15,USD,2,Industrial Production (MoM) (Dec),-0.70%,-0.10%,-0.60%
+,14:15,USD,1,Manufacturing Production (MoM) (Dec),-1.30%,-0.30%,-1.10%
+,14:30,USD,2,FOMC Member Bullard Speaks,,,
+,15:00,USD,2,Business Inventories (MoM) (Nov),0.40%,0.40%,0.20%
+,15:00,USD,1,NAHB Housing Market Index (Jan),35,31,31
+,15:00,USD,2,Retail Inventories Ex Auto (Nov),-0.30%,,-0.60%
+,18:00,USD,2,20-Year Bond Auction,3.68%,,3.94%
+,18:00,USD,2,FOMC Member George Speaks,,,
+,19:00,USD,2,Beige Book,,,
+,19:00,USD,2,FOMC Member Harker Speaks,,,
+,20:30,USD,2,Fed's Balance Sheet,"8,489.04B",,"8,508.59B"
+,21:00,USD,1,"US Foreign Buying, T-bonds (Nov)",54.20B,,61.90B
+,21:00,USD,1,Overall Net Capital Flow (Nov),213.10B,,179.30B
+,21:00,USD,2,TIC Net Long-Term Transactions (Nov),171.5B,92.7B,67.8B
+,21:00,USD,1,TIC Net Long-Term Transactions including Swaps (Nov),165.20B,,50.80B
+,21:30,USD,2,API Weekly Crude Oil Stock,7.615M,-1.750M,14.865M
+,23:00,USD,1,Fed Logan Speaks,,,
+"Thursday, January 19, 2023",13:30,USD,1,Building Permits (MoM) (Dec),-1.60%,,-10.60%
+,13:30,USD,2,Building Permits (Dec),1.330M,1.370M,1.351M
+,13:30,USD,2,Continuing Jobless Claims,"1,647K","1,660K","1,630K"
+,13:30,USD,2,Housing Starts (Dec),1.382M,1.359M,1.401M
+,13:30,USD,2,Housing Starts (MoM) (Dec),-1.40%,,-1.80%
+,13:30,USD,3,Initial Jobless Claims,190K,214K,205K
+,13:30,USD,1,Jobless Claims 4-Week Avg.,206.00K,,212.50K
+,13:30,USD,3,Philadelphia Fed Manufacturing Index (Jan),-8.9,-11,-13.7
+,13:30,USD,1,Philly Fed Business Conditions (Jan),4.9,,-0.9
+,13:30,USD,2,Philly Fed CAPEX Index (Jan),10.5,,16.2
+,13:30,USD,1,Philly Fed Employment (Jan),10.9,,-0.9
+,13:30,USD,1,Philly Fed New Orders (Jan),-10.9,,-22.3
+,13:30,USD,1,Philly Fed Prices Paid (Jan),24.5,,36.3
+,14:00,USD,1,Fed Collins Speaks,,,
+,15:30,USD,3,Natural Gas Storage,-82B,-71B,11B
+,16:00,USD,1,Crude Oil Inventories,8.408M,-0.593M,18.962M
+,16:00,USD,1,EIA Refinery Crude Runs (WoW),0.202M,,0.831M
+,16:00,USD,2,Crude Oil Imports,-1.224M,,2.708M
+,16:00,USD,1,Cushing Crude Oil Inventories,3.646M,,2.511M
+,16:00,USD,1,Distillate Fuel Production,0.057M,,0.509M
+,16:00,USD,1,EIA Weekly Distillates Stocks,-1.939M,0.122M,-1.069M
+,16:00,USD,1,Gasoline Production,0.332M,,0.067M
+,16:00,USD,1,Heating Oil Stockpiles,-0.260M,,0.405M
+,16:00,USD,1,EIA Weekly Refinery Utilization Rates (WoW),1.20%,3.80%,4.50%
+,16:00,USD,1,Gasoline Inventories,3.483M,2.529M,4.114M
+,16:30,USD,1,8-Week Bill Auction,4.52%,,4.47%
+,16:36,USD,1,4-Week Bill Auction,4.48%,,4.37%
+,18:00,USD,2,10-Year TIPS Auction,1.22%,,1.49%
+,18:15,USD,1,Fed Vice Chair Brainard Speaks,,,
+,21:30,USD,1,Reserve Balances with Federal Reserve Banks,3.118T,,3.117T
+,23:35,USD,2,FOMC Member Williams Speaks,,,
+"Friday, January 20, 2023",14:00,USD,2,FOMC Member Harker Speaks,,,
+,15:00,USD,3,Existing Home Sales (Dec),4.02M,3.96M,4.08M
+,15:00,USD,2,Existing Home Sales (MoM) (Dec),-1.50%,-5.40%,-7.90%
+,18:00,USD,2,U.S. Baker Hughes Oil Rig Count,613,,623
+,18:00,USD,2,Fed Waller Speaks,,,
+,18:00,USD,2,U.S. Baker Hughes Total Rig Count,771,,775
+,20:30,USD,1,CFTC Aluminium speculative net positions,5.5K,,5.2K
+,20:30,USD,1,CFTC Copper speculative net positions,16.2K,,10.2K
+,20:30,USD,1,CFTC Corn speculative net positions,271.9K,,233.8K
+,20:30,USD,2,CFTC Crude Oil speculative net positions,239.2K,,205.2K
+,20:30,USD,2,CFTC Gold speculative net positions,153.2K,,150.5K
+,20:30,USD,2,CFTC Nasdaq 100 speculative net positions,-20.6K,,-8.2K
+,20:30,USD,1,CFTC Natural Gas speculative net positions,-177.2K,,-172.5K
+,20:30,USD,2,CFTC S&P 500 speculative net positions,-226.8K,,-213.2K
+,20:30,USD,1,CFTC Silver speculative net positions,31.5K,,29.0K
+,20:30,USD,1,CFTC Soybeans speculative net positions,169.1K,,140.3K
+,20:30,USD,1,CFTC Wheat speculative net positions,-42.0K,,-39.7K
+"Monday, January 23, 2023",15:00,USD,2,US Leading Index (MoM) (Dec),-1.00%,-0.70%,-1.10%
+,16:30,USD,1,3-Month Bill Auction,4.58%,,4.56%
+,16:30,USD,1,6-Month Bill Auction,4.69%,,4.69%
+"Tuesday, January 24, 2023",13:55,USD,1,Redbook (YoY),4.60%,,5.00%
+,14:45,USD,3,S&P Global US Manufacturing PMI (Jan),46.8,46,46.2
+,14:45,USD,2,S&P Global Composite PMI (Jan),46.6,,45
+,14:45,USD,3,S&P Global Services PMI (Jan),46.6,45,44.7
+,15:00,USD,1,Richmond Manufacturing Index (Jan),-11,-5,1
+,15:00,USD,1,Richmond Manufacturing Shipments (Jan),-3,,5
+,15:00,USD,1,Richmond Services Index (Jan),-6,,-12
+,16:30,USD,1,52-Week Bill Auction,4.47%,,4.52%
+,18:00,USD,2,2-Year Note Auction,4.14%,,4.37%
+,18:00,USD,1,M2 Money Supply (MoM) (Dec),21.38T,,21.42T
+,21:30,USD,2,API Weekly Crude Oil Stock,3.378M,1.600M,7.615M
+"Wednesday, January 25, 2023",12:00,USD,1,MBA 30-Year Mortgage Rate,6.20%,,6.23%
+,12:00,USD,1,MBA Mortgage Applications (WoW),7.00%,,27.90%
+,12:00,USD,1,MBA Purchase Index,205.4,,198.7
+,12:00,USD,1,Mortgage Market Index,255.3,,238.7
+,12:00,USD,1,Mortgage Refinance Index,502.3,,438.3
+,15:30,USD,3,Crude Oil Inventories,0.533M,0.971M,8.408M
+,15:30,USD,1,EIA Refinery Crude Runs (WoW),0.128M,,0.202M
+,15:30,USD,1,Crude Oil Imports,-1.791M,,-1.224M
+,15:30,USD,2,Cushing Crude Oil Inventories,4.267M,,3.646M
+,15:30,USD,1,Distillate Fuel Production,-0.009M,,0.057M
+,15:30,USD,1,EIA Weekly Distillates Stocks,-0.507M,-1.121M,-1.939M
+,15:30,USD,1,Gasoline Production,-0.034M,,0.332M
+,15:30,USD,1,Heating Oil Stockpiles,-0.234M,,-0.260M
+,15:30,USD,1,EIA Weekly Refinery Utilization Rates (WoW),0.80%,1.20%,1.20%
+,15:30,USD,1,Gasoline Inventories,1.763M,1.767M,3.483M
+,18:00,USD,2,5-Year Note Auction,3.53%,,3.97%
+,20:30,USD,2,Fed's Balance Sheet,"8,471B",,"8,489B"
+"Thursday, January 26, 2023",13:00,USD,2,Building Permits (Dec),1.337M,,1.351M
+,13:00,USD,1,Building Permits (MoM) (Dec),-1.00%,,-10.60%
+,13:30,USD,1,Chicago Fed National Activity (Nov),-0.49,,-0.05
+,13:30,USD,2,Continuing Jobless Claims,"1,675K","1,659K","1,655K"
+,13:30,USD,2,Core Durable Goods Orders (MoM) (Dec),-0.10%,-0.20%,0.10%
+,13:30,USD,2,Core PCE Prices (Q4),3.90%,4.00%,4.70%
+,13:30,USD,3,Durable Goods Orders (MoM) (Dec),5.60%,2.50%,-1.70%
+,13:30,USD,1,Durables Excluding Defense (MoM) (Dec),6.30%,,-2.30%
+,13:30,USD,3,GDP (QoQ) (Q4),2.90%,2.60%,3.20%
+,13:30,USD,2,GDP Price Index (QoQ) (Q4),3.50%,3.30%,4.40%
+,13:30,USD,1,GDP Sales (Q4),1.40%,,4.50%
+,13:30,USD,1,Goods Orders Non Defense Ex Air (MoM) (Dec),-0.20%,-0.20%,0.10%
+,13:30,USD,2,Goods Trade Balance (Dec),-90.27B,,-82.93B
+,13:30,USD,3,Initial Jobless Claims,186K,205K,192K
+,13:30,USD,1,Jobless Claims 4-Week Avg.,197.50K,,206.75K
+,13:30,USD,1,PCE Prices (Q4),3.20%,,4.30%
+,13:30,USD,1,Real Consumer Spending (Q4),2.10%,,2.30%
+,13:30,USD,2,Retail Inventories Ex Auto (Dec),0.30%,,-0.40%
+,13:30,USD,1,Wholesale Inventories (MoM),0.10%,0.50%,1.00%
+,15:00,USD,3,New Home Sales (Dec),616K,617K,602K
+,15:00,USD,2,New Home Sales (MoM) (Dec),2.30%,-4.70%,0.70%
+,15:30,USD,1,Natural Gas Storage,-91B,-82B,-82B
+,16:00,USD,1,KC Fed Composite Index (Jan),-1,,-4
+,16:00,USD,1,KC Fed Manufacturing Index (Jan),-4,,-6
+,16:30,USD,1,4-Week Bill Auction,4.50%,,4.48%
+,16:30,USD,1,8-Week Bill Auction,4.53%,,4.52%
+,18:00,USD,2,7-Year Note Auction,3.52%,,3.92%
+,19:45,USD,3,U.S. President Biden Speaks,,,
+,21:30,USD,1,Reserve Balances with Federal Reserve Banks,3.000T,,3.118T
+"Friday, January 27, 2023",13:30,USD,3,Core PCE Price Index (MoM) (Dec),0.30%,0.30%,0.20%
+,13:30,USD,3,Core PCE Price Index (YoY) (Dec),4.40%,4.40%,4.70%
+,13:30,USD,2,PCE Price index (YoY) (Dec),5.00%,5.50%,5.50%
+,13:30,USD,2,PCE price index (MoM) (Dec),0.10%,0.20%,0.10%
+,13:30,USD,1,Personal Income (MoM) (Dec),0.20%,0.20%,0.30%
+,13:30,USD,2,Personal Spending (MoM) (Dec),-0.20%,-0.10%,-0.10%
+,13:30,USD,1,Real Personal Consumption (MoM) (Dec),-0.30%,,-0.20%
+,15:00,USD,2,Michigan 1-Year Inflation Expectations (Jan),3.90%,4.40%,4.00%
+,15:00,USD,2,Michigan 5-Year Inflation Expectations (Jan),2.90%,3.00%,2.90%
+,15:00,USD,2,Michigan Consumer Expectations (Jan),62.7,62,59.9
+,15:00,USD,2,Michigan Consumer Sentiment (Jan),64.9,64.6,59.7
+,15:00,USD,1,Michigan Current Conditions (Jan),68.4,68.6,59.4
+,15:00,USD,2,Pending Home Sales (MoM) (Dec),2.50%,-0.90%,-2.60%
+,15:00,USD,1,Pending Home Sales Index (Dec),76.9,,75
+,18:00,USD,2,U.S. Baker Hughes Oil Rig Count,609,,613
+,18:00,USD,2,U.S. Baker Hughes Total Rig Count,771,,771
+,18:14,USD,1,Dallas Fed PCE (Dec),2.30%,,3.00%
+,20:30,USD,1,CFTC Aluminium speculative net positions,5.9K,,5.5K
+,20:30,USD,1,CFTC Copper speculative net positions,20.2K,,16.2K
+,20:30,USD,1,CFTC Corn speculative net positions,277.4K,,271.9K
+,20:30,USD,2,CFTC Crude Oil speculative net positions,249.8K,,239.2K
+,20:30,USD,2,CFTC Gold speculative net positions,157.7K,,153.2K
+,20:30,USD,2,CFTC Nasdaq 100 speculative net positions,-25.3K,,-20.6K
+,20:30,USD,1,CFTC Natural Gas speculative net positions,-171.0K,,-177.2K
+,20:30,USD,2,CFTC S&P 500 speculative net positions,-209.0K,,-226.8K
+,20:30,USD,1,CFTC Silver speculative net positions,25.7K,,31.5K
+,20:30,USD,1,CFTC Soybeans speculative net positions,155.2K,,169.1K
+,20:30,USD,1,CFTC Wheat speculative net positions,-48.3K,,-42.0K
+"Monday, January 30, 2023",15:30,USD,1,Dallas Fed Mfg Business Index (Jan),-8.4,,-20
+,16:30,USD,1,3-Month Bill Auction,4.60%,,4.58%
+,16:30,USD,1,6-Month Bill Auction,4.68%,,4.69%
+"Tuesday, January 31, 2023",13:30,USD,1,Employment Benefits (QoQ) (Q4),0.80%,,1.00%
+,13:30,USD,2,Employment Cost Index (QoQ) (Q4),1.00%,1.10%,1.20%
+,13:30,USD,1,Employment Wages (QoQ) (Q4),1.00%,,1.30%
+,13:30,USD,1,OPEC Crude Oil Production Congo (Barrel),0.26M,,0.26M
+,13:30,USD,1,OPEC Crude oil Production Saudi Arabia (Barrel),10.44M,,10.45M
+,13:55,USD,1,Redbook (YoY),4.90%,,4.60%
+,14:00,USD,1,House Price Index (MoM) (Nov),-0.10%,-0.40%,0.00%
+,14:00,USD,1,House Price Index (YoY) (Nov),8.20%,,9.80%
+,14:00,USD,1,House Price Index (Nov),392.3,,392.8
+,14:00,USD,1,S&P/CS HPI Composite - 20 s.a. (MoM) (Nov),-0.50%,-0.60%,-0.50%
+,14:00,USD,2,S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov),-0.80%,,-0.80%
+,14:00,USD,2,S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov),6.80%,6.80%,8.70%
+,14:45,USD,3,Chicago PMI (Jan),44.3,45,45.1
+,15:00,USD,3,CB Consumer Confidence (Jan),107.1,109,109
+,15:00,USD,1,OPEC Crude Oil Production Algeria (Barrel),1.02M,,1.03M
+,15:00,USD,1,OPEC Crude Oil Production Gabon (Barrel),0.19M,,0.20M
+,15:00,USD,1,OPEC Crude Oil Production Guinea (Barrel),0.06M,,0.06M
+,15:00,USD,1,OPEC Crude oil Production Iran (Barrel),2.58M,,2.57M
+,15:00,USD,1,OPEC Crude oil Production Iraq (Barrel),4.47M,,4.46M
+,15:00,USD,1,OPEC Crude Oil Production Kuwait (Barrel),2.65M,,2.68M
+,15:00,USD,1,OPEC Crude Oil Production Libya (Barrel),1.15M,,1.16M
+,15:00,USD,1,OPEC Crude Oil Production Nigeria (Barrel),1.27M,,1.18M
+,15:00,USD,1,OPEC Crude oil Production UAE (Barrel),3.04M,,3.05M
+,15:00,USD,1,OPEC Crude oil Production Venezuela (Barrel),0.67M,,0.67M
+,15:30,USD,1,Dallas Fed Services Revenues (Jan),4.9,,-0.6
+,15:30,USD,1,Texas Services Sector Outlook (Jan),-15,,-20.5
+,21:30,USD,2,API Weekly Crude Oil Stock,6.330M,-1.000M,3.378M
