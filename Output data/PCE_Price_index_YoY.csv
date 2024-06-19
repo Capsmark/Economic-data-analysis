@@ -1,0 +1,18 @@
+Cur.,Imp.,Event,Actual,Forecast,Previous,datetime
+USD,2.0,PCE Price index (YoY) (Dec),5.00%,5.50%,5.50%,2023-01-27 13:30:00
+USD,2.0,PCE Price index (YoY) (Jan),5.40%,5.00%,5.30%,2023-02-24 13:30:00
+USD,2.0,PCE Price index (YoY) (Feb),5.00%,5.10%,5.30%,2023-03-31 12:30:00
+USD,2.0,PCE Price index (YoY) (Mar),4.20%,,5.10%,2023-04-28 12:30:00
+USD,2.0,PCE Price index (YoY) (Apr),4.40%,3.90%,4.20%,2023-05-26 12:30:00
+USD,2.0,PCE Price index (YoY) (May),3.80%,4.60%,4.30%,2023-06-30 12:30:00
+USD,2.0,PCE Price index (YoY) (Jun),3.00%,3.10%,3.80%,2023-07-28 12:30:00
+USD,2.0,PCE Price index (YoY) (Jul),3.30%,3.30%,3.00%,2023-08-31 12:30:00
+USD,2.0,PCE Price index (YoY) (Aug),3.50%,3.50%,3.40%,2023-09-29 12:30:00
+USD,2.0,PCE Price index (YoY) (Sep),3.40%,3.40%,3.40%,2023-10-27 12:30:00
+USD,2.0,PCE Price index (YoY) (Oct),3.00%,3.00%,3.40%,2023-11-30 13:30:00
+USD,2.0,PCE Price index (YoY) (Nov),2.60%,2.80%,2.90%,2023-12-22 13:30:00
+USD,2.0,PCE Price index (YoY) (Dec),2.60%,2.60%,2.60%,2024-01-26 13:30:00
+USD,2.0,PCE Price index (YoY) (Jan),2.40%,2.40%,2.60%,2024-02-29 13:30:00
+USD,2.0,PCE Price index (YoY) (Feb),2.50%,2.50%,2.40%,2024-03-29 12:30:00
+USD,2.0,PCE Price index (YoY) (Mar),2.70%,2.60%,2.50%,2024-04-26 12:30:00
+USD,2.0,PCE Price index (YoY) (Apr),,,2.70%,2024-05-31 12:30:00

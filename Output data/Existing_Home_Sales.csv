@@ -1,33 +1,17 @@
 Cur.,Imp.,Event,Actual,Forecast,Previous,datetime
 USD,3.0,Existing Home Sales (Dec),4.02M,3.96M,4.08M,2023-01-20 15:00:00
-USD,2.0,Existing Home Sales (MoM) (Dec),-1.50%,-5.40%,-7.90%,2023-01-20 15:00:00
 USD,3.0,Existing Home Sales (Jan),4.00M,4.10M,4.03M,2023-02-21 15:00:00
-USD,2.0,Existing Home Sales (MoM) (Jan),-0.70%,2.00%,-2.20%,2023-02-21 15:00:00
-USD,2.0,Existing Home Sales (MoM) (Feb),14.50%,5.00%,-0.70%,2023-03-21 14:00:00
 USD,3.0,Existing Home Sales,4.58M,4.19M,4.00M,2023-03-21 14:00:00
 USD,3.0,Existing Home Sales (Mar),4.44M,4.50M,4.55M,2023-04-20 14:00:00
-USD,2.0,Existing Home Sales (MoM) (Mar),-2.40%,5.00%,13.80%,2023-04-20 14:00:00
 USD,3.0,Existing Home Sales (Apr),4.28M,4.30M,4.43M,2023-05-18 14:00:00
-USD,2.0,Existing Home Sales (MoM) (Apr),-3.40%,0.10%,-2.60%,2023-05-18 14:00:00
 USD,3.0,Existing Home Sales (May),4.30M,4.25M,4.29M,2023-06-22 14:00:00
-USD,2.0,Existing Home Sales (MoM) (May),0.20%,,-3.20%,2023-06-22 14:00:00
 USD,3.0,Existing Home Sales (Jun),4.16M,4.20M,4.30M,2023-07-20 14:00:00
-USD,2.0,Existing Home Sales (MoM) (Jun),-3.30%,,0.20%,2023-07-20 14:00:00
 USD,3.0,Existing Home Sales (Jul),4.07M,4.15M,4.16M,2023-08-22 14:00:00
-USD,2.0,Existing Home Sales (MoM) (Jul),-2.20%,,-3.30%,2023-08-22 14:00:00
 USD,3.0,Existing Home Sales (Aug),4.04M,4.10M,4.07M,2023-09-21 14:00:00
-USD,2.0,Existing Home Sales (MoM) (Aug),-0.70%,,-2.20%,2023-09-21 14:00:00
-USD,2.0,Existing Home Sales (MoM) (Sep),-2.00%,,-0.70%,2023-10-19 14:00:00
 USD,3.0,Existing Home Sales (Sep),3.96M,3.89M,4.04M,2023-10-19 14:00:00
-USD,2.0,Existing Home Sales (MoM) (Oct),-4.10%,,-2.20%,2023-11-21 15:00:00
 USD,3.0,Existing Home Sales (Oct),3.79M,3.90M,3.95M,2023-11-21 15:00:00
 USD,3.0,Existing Home Sales (Nov),3.82M,3.78M,3.79M,2023-12-20 15:00:00
-USD,2.0,Existing Home Sales (MoM) (Nov),0.80%,,-4.10%,2023-12-20 15:00:00
-USD,2.0,Existing Home Sales (MoM) (Jan),3.10%,,-0.80%,2024-02-22 15:00:00
 USD,3.0,Existing Home Sales (Jan),4.00M,3.96M,3.88M,2024-02-22 15:00:00
-USD,2.0,Existing Home Sales (MoM) (Feb),9.50%,-1.30%,3.10%,2024-03-21 14:00:00
 USD,3.0,Existing Home Sales (Feb),4.38M,3.95M,4.00M,2024-03-21 14:00:00
-USD,2.0,Existing Home Sales (MoM) (Mar),-4.30%,,9.50%,2024-04-18 14:00:00
 USD,3.0,Existing Home Sales (Mar),4.19M,4.20M,4.38M,2024-04-18 14:00:00
-USD,2.0,Existing Home Sales (MoM) (Apr),,,-4.30%,2024-05-22 14:00:00
 USD,3.0,Existing Home Sales (Apr),,4.18M,4.19M,2024-05-22 14:00:00

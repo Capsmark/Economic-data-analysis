@@ -1,35 +1,18 @@
 Cur.,Imp.,Event,Actual,Forecast,Previous,datetime
 USD,3.0,New Home Sales (Dec),616K,617K,602K,2023-01-26 15:00:00
-USD,2.0,New Home Sales (MoM) (Dec),2.30%,-4.70%,0.70%,2023-01-26 15:00:00
 USD,3.0,New Home Sales (Jan),670K,620K,625K,2023-02-24 15:00:00
-USD,2.0,New Home Sales (MoM) (Jan),7.20%,,7.20%,2023-02-24 15:00:00
-USD,2.0,New Home Sales (MoM) (Feb),1.10%,,1.80%,2023-03-23 14:00:00
 USD,3.0,New Home Sales (Feb),640K,650K,633K,2023-03-23 14:00:00
 USD,3.0,New Home Sales (Mar),683K,630K,623K,2023-04-25 14:00:00
-USD,2.0,New Home Sales (MoM) (Mar),9.60%,1.10%,-3.90%,2023-04-25 14:00:00
-USD,2.0,New Home Sales (MoM) (Apr),4.10%,3.30%,4.00%,2023-05-23 14:00:00
 USD,3.0,New Home Sales (Apr),683K,663K,656K,2023-05-23 14:00:00
-USD,2.0,New Home Sales (MoM) (May),12.20%,,3.50%,2023-06-27 14:00:00
 USD,3.0,New Home Sales (May),763K,675K,680K,2023-06-27 14:00:00
 USD,3.0,New Home Sales (Jun),697K,725K,715K,2023-07-26 14:00:00
-USD,2.0,New Home Sales (MoM) (Jun),-2.50%,-0.70%,6.60%,2023-07-26 14:00:00
 USD,3.0,New Home Sales (Jul),714K,705K,684K,2023-08-23 14:00:00
-USD,2.0,New Home Sales (MoM) (Jul),4.40%,0.20%,-2.80%,2023-08-23 14:00:00
-USD,1.0,New Home Sales (MoM) (Aug),-8.70%,,8.00%,2023-09-26 14:00:00
 USD,1.0,New Home Sales (Aug),675K,700K,739K,2023-09-26 14:00:00
 USD,3.0,New Home Sales (Sep),759K,680K,676K,2023-10-25 14:00:00
-USD,2.0,New Home Sales (MoM) (Sep),12.30%,,-8.20%,2023-10-25 14:00:00
 USD,3.0,New Home Sales (Oct),679K,721K,719K,2023-11-27 15:00:00
-USD,2.0,New Home Sales (MoM) (Oct),-5.60%,-4.50%,8.60%,2023-11-27 15:00:00
-USD,2.0,New Home Sales (MoM) (Nov),-12.20%,,-4.00%,2023-12-22 15:00:00
 USD,3.0,New Home Sales (Nov),590K,695K,672K,2023-12-22 15:00:00
 USD,3.0,New Home Sales (Dec),664K,645K,615K,2024-01-25 15:00:00
-USD,2.0,New Home Sales (MoM) (Dec),8.00%,,-9.00%,2024-01-25 15:00:00
 USD,3.0,New Home Sales (Jan),661K,680K,651K,2024-02-26 15:00:00
-USD,2.0,New Home Sales (MoM) (Jan),1.50%,3.00%,7.20%,2024-02-26 15:00:00
 USD,3.0,New Home Sales (Feb),662K,675K,664K,2024-03-25 14:00:00
-USD,2.0,New Home Sales (MoM) (Feb),-0.30%,,1.70%,2024-03-25 14:00:00
 USD,3.0,New Home Sales (Mar),693K,668K,637K,2024-04-23 14:00:00
-USD,2.0,New Home Sales (MoM) (Mar),8.80%,,-5.10%,2024-04-23 14:00:00
-USD,2.0,New Home Sales (MoM) (Apr),,,8.80%,2024-05-23 14:00:00
 USD,3.0,New Home Sales (Apr),,680K,693K,2024-05-23 14:00:00
