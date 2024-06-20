@@ -1,0 +1,19 @@
+Cur.,Imp.,Event,Actual,Forecast,Previous,datetime
+USD,2.0,ISM Non-Manufacturing Employment (Dec),49.8,,51.5,2023-01-06 15:00:00
+USD,2.0,ISM Non-Manufacturing Employment (Jan),50,,49.4,2023-02-03 15:00:00
+USD,2.0,ISM Non-Manufacturing Employment (Feb),54,,50,2023-03-03 15:00:00
+USD,2.0,ISM Non-Manufacturing Employment (Mar),51.3,53,54,2023-04-05 14:00:00
+USD,2.0,ISM Non-Manufacturing Employment (Apr),50.8,52.6,51.3,2023-05-03 14:00:00
+USD,2.0,ISM Non-Manufacturing Employment (May),49.2,51,50.8,2023-06-05 14:00:00
+USD,2.0,ISM Non-Manufacturing Employment (Jun),53.1,49.9,49.2,2023-07-06 14:00:00
+USD,2.0,ISM Non-Manufacturing Employment (Jul),50.7,51.1,53.1,2023-08-03 14:00:00
+USD,2.0,ISM Non-Manufacturing Employment (Aug),54.7,,50.7,2023-09-06 14:00:00
+USD,2.0,ISM Non-Manufacturing Employment (Sep),53.4,,54.7,2023-10-04 14:00:00
+USD,2.0,ISM Non-Manufacturing Employment (Oct),50.2,53.5,53.4,2023-11-03 14:00:00
+USD,2.0,ISM Non-Manufacturing Employment (Nov),50.7,51.4,50.2,2023-12-05 15:00:00
+USD,2.0,ISM Non-Manufacturing Employment (Dec),43.3,51,50.7,2024-01-05 15:00:00
+USD,2.0,ISM Non-Manufacturing Employment (Jan),50.5,49.4,43.8,2024-02-05 15:00:00
+USD,2.0,ISM Non-Manufacturing Employment (Feb),48,51.4,50.5,2024-03-05 15:00:00
+USD,2.0,ISM Non-Manufacturing Employment (Mar),48.5,49,48,2024-04-03 14:00:00
+USD,2.0,ISM Non-Manufacturing Employment (Apr),45.9,49,48.5,2024-05-03 14:00:00
+USD,2.0,ISM Non-Manufacturing Employment (May),,,45.9,2024-06-05 14:00:00

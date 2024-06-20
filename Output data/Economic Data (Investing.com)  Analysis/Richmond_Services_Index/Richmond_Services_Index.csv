@@ -1,0 +1,18 @@
+Cur.,Imp.,Event,Actual,Forecast,Previous,datetime
+USD,1.0,Richmond Services Index (Jan),-6,,-12,2023-01-24 15:00:00
+USD,1.0,Richmond Services Index (Feb),-3,,-6,2023-02-28 15:00:00
+USD,1.0,Richmond Services Index,-17,,-3,2023-03-28 14:00:00
+USD,1.0,Richmond Services Index (Apr),-23,-3,-17,2023-04-25 14:00:00
+USD,1.0,Richmond Services Index (May),-10,-29,-23,2023-05-23 14:00:00
+USD,1.0,Richmond Services Index (Jun),-3,7,-10,2023-06-27 14:00:00
+USD,1.0,Richmond Services Index (Jul),-2,9,-8,2023-07-25 14:00:00
+USD,1.0,Richmond Services Index (Aug),4,-4,-2,2023-08-22 14:00:00
+USD,1.0,Richmond Services Index (Sep),4,,4,2023-09-26 14:00:00
+USD,1.0,Richmond Services Index (Oct),-11,,4,2023-10-24 14:00:00
+USD,1.0,Richmond Services Index (Nov),1,,-11,2023-11-28 15:00:00
+USD,1.0,Richmond Services Index (Dec),0,,1,2023-12-27 15:00:00
+USD,1.0,Richmond Services Index (Jan),4,,0,2024-01-23 15:00:00
+USD,1.0,Richmond Services Index (Feb),-16,,4,2024-02-27 15:00:00
+USD,1.0,Richmond Services Index (Mar),-7,,-16,2024-03-26 14:00:00
+USD,1.0,Richmond Services Index (Apr),-13,,-7,2024-04-23 14:00:00
+USD,1.0,Richmond Services Index (May),,,-13,2024-05-29 14:00:00

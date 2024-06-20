@@ -1,0 +1,19 @@
+Cur.,Imp.,Event,Actual,Forecast,Previous,datetime
+USD,2.0,U6 Unemployment Rate (Dec),6.50%,,6.70%,2023-01-06 13:30:00
+USD,2.0,U6 Unemployment Rate (Jan),6.60%,,6.50%,2023-02-03 13:30:00
+USD,2.0,U6 Unemployment Rate (Feb),6.80%,,6.60%,2023-03-10 13:30:00
+USD,2.0,U6 Unemployment Rate (Mar),6.70%,6.70%,6.80%,2023-04-07 12:30:00
+USD,2.0,U6 Unemployment Rate (Apr),6.60%,6.70%,6.70%,2023-05-04 12:30:00
+USD,2.0,U6 Unemployment Rate (May),6.70%,6.60%,6.60%,2023-06-02 12:30:00
+USD,2.0,U6 Unemployment Rate (Jun),6.90%,6.60%,6.70%,2023-07-07 12:30:00
+USD,2.0,U6 Unemployment Rate (Jul),6.70%,6.80%,6.90%,2023-08-04 12:30:00
+USD,2.0,U6 Unemployment Rate (Aug),7.10%,6.80%,6.70%,2023-09-01 12:30:00
+USD,2.0,U6 Unemployment Rate (Sep),7.00%,,7.10%,2023-10-06 12:30:00
+USD,2.0,U6 Unemployment Rate (Oct),7.20%,,7.00%,2023-11-03 12:30:00
+USD,2.0,U6 Unemployment Rate (Nov),7.00%,,7.20%,2023-12-08 13:30:00
+USD,2.0,U6 Unemployment Rate (Dec),7.10%,,7.00%,2024-01-05 13:30:00
+USD,2.0,U6 Unemployment Rate (Jan),7.20%,,7.10%,2024-02-02 13:30:00
+USD,2.0,U6 Unemployment Rate (Feb),7.30%,,7.20%,2024-03-08 13:30:00
+USD,2.0,U6 Unemployment Rate (Mar),7.30%,,7.30%,2024-04-05 12:30:00
+USD,2.0,U6 Unemployment Rate (Apr),7.40%,,7.30%,2024-05-03 12:30:00
+USD,2.0,U6 Unemployment Rate (May),,,7.40%,2024-06-07 12:30:00
