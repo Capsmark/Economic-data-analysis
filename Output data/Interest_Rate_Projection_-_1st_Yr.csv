@@ -1,6 +1,6 @@
 Cur.,Imp.,Event,Actual,Forecast,Previous,datetime
-USD,2.0,Interest Rate Projection - 1st Yr (Q1),4.30%,,5.10%,2023-03-22 18:00:00
-USD,2.0,Interest Rate Projection - 1st Yr (Q2),4.60%,,4.30%,2023-06-14 18:00:00
-USD,2.0,Interest Rate Projection - 1st Yr (Q3),5.10%,,4.60%,2023-09-20 18:00:00
-USD,2.0,Interest Rate Projection - 1st Yr (Q4),4.60%,,5.10%,2023-12-13 19:00:00
-USD,2.0,Interest Rate Projection - 1st Yr (Q1),3.90%,,4.60%,2024-03-20 18:00:00
+USD,2.0,Interest Rate Projection - 1st Yr (Q1),4.30%,,5.10%,3/22/2023 18:00
+USD,2.0,Interest Rate Projection - 1st Yr (Q2),4.60%,,4.30%,6/14/2023 18:00
+USD,2.0,Interest Rate Projection - 1st Yr (Q3),5.10%,,4.60%,9/20/2023 18:00
+USD,2.0,Interest Rate Projection - 1st Yr (Q4),4.60%,,5.10%,12/13/2023 19:00
+USD,2.0,Interest Rate Projection - 1st Yr (Q1),3.90%,,4.60%,3/20/2024 18:00

@@ -1,18 +1,17 @@
 Cur.,Imp.,Event,Actual,Forecast,Previous,datetime
-USD,1.0,Import Price Index (YoY),3.50%,,2.70%,2023-01-13 13:30:00
-USD,1.0,Import Price Index (YoY),0.80%,,3.00%,2023-02-17 13:30:00
-USD,1.0,Import Price Index (YoY),-1.10%,,0.90%,2023-03-16 12:30:00
-USD,1.0,Import Price Index (YoY),-4.60%,,-1.10%,2023-04-14 12:30:00
-USD,1.0,Import Price Index (YoY),-4.80%,,-4.60%,2023-05-12 12:30:00
-USD,1.0,Import Price Index (YoY),-5.90%,,-4.90%,2023-06-15 18:00:00
-USD,1.0,Import Price Index (YoY),-6.10%,-3.60%,-5.90%,2023-07-14 12:30:00
-USD,1.0,Import Price Index (YoY),-4.40%,-6.50%,-6.10%,2023-08-15 12:30:00
-USD,1.0,Import Price Index (YoY),-3.00%,-2.90%,-4.40%,2023-09-15 12:30:00
-USD,1.0,Import Price Index (YoY),-1.70%,,-2.90%,2023-10-13 12:30:00
-USD,1.0,Import Price Index (YoY),-2.00%,,-1.50%,2023-11-16 13:30:00
-USD,1.0,Import Price Index (YoY),-1.40%,,-1.80%,2023-12-14 13:30:00
-USD,1.0,Import Price Index (YoY),-1.60%,,-1.50%,2024-01-17 13:30:00
-USD,1.0,Import Price Index (YoY),-1.30%,-1.30%,-2.40%,2024-02-15 13:30:00
-USD,1.0,Import Price Index (YoY),-0.80%,,-1.30%,2024-03-15 12:30:00
-USD,1.0,Import Price Index (YoY) (Mar),0.40%,0.30%,-0.80%,2024-04-11 12:30:00
-USD,1.0,Import Price Index (YoY),1.10%,,0.40%,2024-05-16 12:30:00
+USD,1.0,Import Price Index (YoY),3.50%,,2.70%,1/13/2023 13:30
+USD,1.0,Import Price Index (YoY),0.80%,,3.00%,2/17/2023 13:30
+USD,1.0,Import Price Index (YoY),-1.10%,,0.90%,3/16/2023 12:30
+USD,1.0,Import Price Index (YoY),-4.60%,,-1.10%,4/14/2023 12:30
+USD,1.0,Import Price Index (YoY),-4.80%,,-4.60%,5/12/2023 12:30
+USD,1.0,Import Price Index (YoY),-5.90%,,-4.90%,6/15/2023 18:00
+USD,1.0,Import Price Index (YoY),-6.10%,-3.60%,-5.90%,7/14/2023 12:30
+USD,1.0,Import Price Index (YoY),-4.40%,-6.50%,-6.10%,8/15/2023 12:30
+USD,1.0,Import Price Index (YoY),-3.00%,-2.90%,-4.40%,9/15/2023 12:30
+USD,1.0,Import Price Index (YoY),-1.70%,,-2.90%,10/13/2023 12:30
+USD,1.0,Import Price Index (YoY),-2.00%,,-1.50%,11/16/2023 13:30
+USD,1.0,Import Price Index (YoY),-1.40%,,-1.80%,12/14/2023 13:30
+USD,1.0,Import Price Index (YoY),-1.60%,,-1.50%,1/17/2024 13:30
+USD,1.0,Import Price Index (YoY),-1.30%,-1.30%,-2.40%,2/15/2024 13:30
+USD,1.0,Import Price Index (YoY),-0.80%,,-1.30%,3/15/2024 12:30
+USD,1.0,Import Price Index (YoY) (Mar),0.40%,0.30%,-0.80%,4/11/2024 12:30

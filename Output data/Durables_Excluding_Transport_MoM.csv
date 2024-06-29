@@ -1,20 +1,17 @@
 Cur.,Imp.,Event,Actual,Forecast,Previous,datetime
-USD,1.0,Durables Excluding Transport (MoM) (Nov),0.10%,,0.20%,2023-01-06 15:00:00
-USD,1.0,Durables Excluding Transport (MoM) (Dec),-0.20%,,-0.10%,2023-02-02 15:00:00
-USD,1.0,Durables Excluding Transport (MoM) (Jan),0.80%,,0.70%,2023-03-06 15:00:00
-USD,1.0,Durables Excluding Transport (MoM) (Feb),-0.10%,,0.70%,2023-04-04 14:00:00
-USD,1.0,Durables Excluding Transport (MoM) (Mar),0.20%,,0.30%,2023-05-02 14:00:00
-USD,1.0,Durables Excluding Transport (MoM) (Apr),-0.30%,,0.20%,2023-06-05 14:00:00
-USD,1.0,Durables Excluding Transport (MoM) (May),0.70%,,-0.30%,2023-07-05 14:00:00
-USD,1.0,Durables Excluding Transport (MoM) (Jun),0.50%,,0.60%,2023-08-03 14:00:00
-USD,1.0,Durables Excluding Transport (MoM) (Jul),0.40%,,0.50%,2023-09-05 14:00:00
-USD,1.0,Durables Excluding Transport (MoM) (Aug),0.40%,,0.40%,2023-10-04 14:00:00
-USD,1.0,Durables Excluding Transport (MoM) (Sep),0.40%,,0.40%,2023-11-02 14:00:00
-USD,1.0,Durables Excluding Transport (MoM) (Oct),0.00%,,0.40%,2023-12-04 15:00:00
-USD,1.0,Durables Excluding Transport (MoM) (Nov),0.40%,,0.50%,2024-01-05 15:00:00
-USD,1.0,Durables Excluding Transport (MoM) (Dec),0.50%,,0.60%,2024-02-02 15:00:00
-USD,1.0,Durables Excluding Transport (MoM) (Jan),-0.40%,,0.50%,2024-03-05 15:00:00
-USD,1.0,Durables Excluding Transport (MoM) (Feb),0.30%,,-0.40%,2024-04-02 14:00:00
-USD,1.0,Durables Excluding Transport (MoM) (Mar),0.20%,,0.30%,2024-05-02 14:00:00
-USD,1.0,Durables Excluding Transport (MoM),,,0.20%,2024-05-24 12:30:00
-USD,1.0,Durables Excluding Transport (MoM) (Apr),,,,2024-06-04 14:00:00
+USD,1.0,Durables Excluding Transport (MoM) (Nov),0.10%,,0.20%,1/6/2023 15:00
+USD,1.0,Durables Excluding Transport (MoM) (Dec),-0.20%,,-0.10%,2/2/2023 15:00
+USD,1.0,Durables Excluding Transport (MoM) (Jan),0.80%,,0.70%,3/6/2023 15:00
+USD,1.0,Durables Excluding Transport (MoM) (Feb),-0.10%,,0.70%,4/4/2023 14:00
+USD,1.0,Durables Excluding Transport (MoM) (Mar),0.20%,,0.30%,5/2/2023 14:00
+USD,1.0,Durables Excluding Transport (MoM) (Apr),-0.30%,,0.20%,6/5/2023 14:00
+USD,1.0,Durables Excluding Transport (MoM) (May),0.70%,,-0.30%,7/5/2023 14:00
+USD,1.0,Durables Excluding Transport (MoM) (Jun),0.50%,,0.60%,8/3/2023 14:00
+USD,1.0,Durables Excluding Transport (MoM) (Jul),0.40%,,0.50%,9/5/2023 14:00
+USD,1.0,Durables Excluding Transport (MoM) (Aug),0.40%,,0.40%,10/4/2023 14:00
+USD,1.0,Durables Excluding Transport (MoM) (Sep),0.40%,,0.40%,11/2/2023 14:00
+USD,1.0,Durables Excluding Transport (MoM) (Oct),0.00%,,0.40%,12/4/2023 15:00
+USD,1.0,Durables Excluding Transport (MoM) (Nov),0.40%,,0.50%,1/5/2024 15:00
+USD,1.0,Durables Excluding Transport (MoM) (Dec),0.50%,,0.60%,2/2/2024 15:00
+USD,1.0,Durables Excluding Transport (MoM) (Jan),-0.40%,,0.50%,3/5/2024 15:00
+USD,1.0,Durables Excluding Transport (MoM) (Feb),0.30%,,-0.40%,4/2/2024 14:00

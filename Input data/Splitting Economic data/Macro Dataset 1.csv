@@ -1,0 +1,128 @@
+base,Event
+Atlanta_Fed_GDPNow,Atlanta Fed GDPNow
+Average_Hourly_Earnings_MoM,Average Hourly Earnings (MoM)
+Average_Hourly_Earnings_YoY_YoY,Average Hourly Earnings (YoY) (YoY)
+Average_Weekly_Hours,Average Weekly Hours
+Building_Permits,Building Permits
+Building_Permits_MoM,Building Permits (MoM)
+Business_Inventories_MoM,Business Inventories (MoM)
+CB_Consumer_Confidence,CB Consumer Confidence
+CFTC_Aluminium_speculative_net_positions,CFTC Aluminium speculative net positions
+CFTC_Copper_speculative_net_positions,CFTC Copper speculative net positions
+CFTC_Corn_speculative_net_positions,CFTC Corn speculative net positions
+CFTC_Crude_Oil_speculative_net_positions,CFTC Crude Oil speculative net positions
+CFTC_Gold_speculative_net_positions,CFTC Gold speculative net positions
+CFTC_Nasdaq_100_speculative_net_positions,CFTC Nasdaq 100 speculative net positions
+CFTC_Natural_Gas_speculative_net_positions,CFTC Natural Gas speculative net positions
+CFTC_SP_500_speculative_net_positions,CFTC S&P 500 speculative net positions
+CFTC_Silver_speculative_net_positions,CFTC Silver speculative net positions
+CFTC_Soybeans_speculative_net_positions,CFTC Soybeans speculative net positions
+CFTC_Wheat_speculative_net_positions,CFTC Wheat speculative net positions
+CPI_MoM,CPI (MoM)
+CPI_YoY,CPI (YoY)
+CPI_Index_nsa,"CPI Index, n.s.a."
+CPI_Index_sa,"CPI Index, s.a"
+CPI_nsa_MoM,"CPI, n.s.a (MoM)"
+Capacity_Utilization_Rate,Capacity Utilization Rate
+Consumer_Credit,Consumer Credit
+Continuing_Jobless_Claims,Continuing Jobless Claims
+Core_CPI_MoM,Core CPI (MoM)
+Core_CPI_YoY,Core CPI (YoY)
+Core_CPI_Index,Core CPI Index
+Core_Durable_Goods_Orders_MoM,Core Durable Goods Orders (MoM)
+Core_PCE_Price_Index_MoM,Core PCE Price Index (MoM)
+Core_PCE_Price_Index_YoY,Core PCE Price Index (YoY)
+Core_PCE_Prices,Core PCE Prices
+Core_PPI_MoM,Core PPI (MoM)
+Core_PPI_YoY,Core PPI (YoY)
+Core_Retail_Sales_MoM,Core Retail Sales (MoM)
+Corporate_Profits,Corporate Profits
+Durable_Goods_Orders_MoM,Durable Goods Orders (MoM)
+Durables_Excluding_Defense_MoM,Durables Excluding Defense (MoM)
+Durables_Excluding_Transport_MoM,Durables Excluding Transport (MoM)
+Employment_Cost_Index,Employment Cost Index
+Employment_Wages,Employment Wages
+Existing_Home_Sales,Existing Home Sales
+Existing_Home_Sales_MoM,Existing Home Sales (MoM)
+Export_Price_Index_MoM,Export Price Index (MoM)
+Export_Price_Index_YoY,Export Price Index (YoY)
+Exports,Exports
+Factory_Orders_MoM,Factory Orders (MoM)
+Factory_orders_ex_transportation_MoM,Factory orders ex transportation (MoM)
+Fed_Interest_Rate_Decision,Fed Interest Rate Decision
+Feds_Balance_Sheet,Fed's Balance Sheet
+Federal_Budget_Balance,Federal Budget Balance
+GDP,GDP
+GDP_Price_Index,GDP Price Index
+GDP_Sales,GDP Sales
+Goods_Orders_Non_Defense_Ex_Air_MoM,Goods Orders Non Defense Ex Air (MoM)
+Goods_Trade_Balance,Goods Trade Balance
+Housing_Starts_MoM,Housing Starts
+Housing_Starts,Housing Starts (MoM)
+ISM_Manufacturing_Employment,ISM Manufacturing Employment
+ISM_Manufacturing_New_Orders_Index,ISM Manufacturing New Orders Index
+ISM_Manufacturing_PMI,ISM Manufacturing PMI
+ISM_Manufacturing_Prices,ISM Manufacturing Prices
+ISM_Non-Manufacturing_Business_Activity,ISM Non-Manufacturing Business Activity
+ISM_Non-Manufacturing_Employment,ISM Non-Manufacturing Employment
+ISM_Non-Manufacturing_New_Orders,ISM Non-Manufacturing New Orders
+ISM_Non-Manufacturing_PMI,ISM Non-Manufacturing PMI
+ISM_Non-Manufacturing_Prices,ISM Non-Manufacturing Prices
+Import_Price_Index_YoY,Import Price Index (MoM)
+Import_Price_Index_MoM,Import Price Index (YoY)
+Industrial_Production_MoM,Industrial Production (MoM)
+Industrial_Production_YoY,Industrial Production (YoY)
+Initial_Jobless_Claims,Initial Jobless Claims
+Interest_Rate_Projection_-_1st_Yr,Interest Rate Projection - 1st Yr
+Interest_Rate_Projection_-_2nd_Yr,Interest Rate Projection - 2nd Yr
+Interest_Rate_Projection_-_3rd_Yr,Interest Rate Projection - 3rd Yr
+Interest_Rate_Projection_-_Current,Interest Rate Projection - Current
+Interest_Rate_Projection_-_Longer,Interest Rate Projection - Longer
+JOLTs_Job_Openings,JOLTs Job Openings
+Jobless_Claims_4-Week_Avg,Jobless Claims 4-Week Avg.
+M2_Money_Supply_MoM,M2 Money Supply (MoM)
+MBA_30-Year_Mortgage_Rate,MBA 30-Year Mortgage Rate
+MBA_Mortgage_Applications_WoW,MBA Mortgage Applications (WoW)
+Manufacturing_Payrolls,Manufacturing Payrolls
+Manufacturing_Production_MoM,Manufacturing Production (MoM)
+Michigan_1-Year_Inflation_Expectations,Michigan 1-Year Inflation Expectations
+Michigan_5-Year_Inflation_Expectations,Michigan 5-Year Inflation Expectations
+Michigan_Consumer_Expectations,Michigan Consumer Expectations
+Michigan_Consumer_Sentiment,Michigan Consumer Sentiment
+Michigan_Current_Conditions,Michigan Current Conditions
+NAHB_Housing_Market_Index,NAHB Housing Market Index
+New_Home_Sales,New Home Sales
+New_Home_Sales_MoM,New Home Sales (MoM)
+Nonfarm_Payrolls,Nonfarm Payrolls
+Nonfarm_Productivity,Nonfarm Productivity
+PCE_Price_index_YoY,PCE Price index (YoY)
+PCE_Prices,PCE Prices
+PCE_price_index_MoM,PCE price index (MoM)
+PPI_MoM,PPI (MoM)
+PPI_YoY,PPI (YoY)
+PPI_ex_FoodEnergyTransport_MoM,PPI ex. Food/Energy/Transport (MoM)
+PPI_ex_FoodEnergyTransport_YoY,PPI ex. Food/Energy/Transport (YoY)
+Participation_Rate,Participation Rate
+Payrolls_Benchmark,Payrolls Benchmark
+Payrolls_Benchmark_nsa,"Payrolls Benchmark, n.s.a."
+Pending_Home_Sales_MoM,Pending Home Sales (MoM)
+Pending_Home_Sales_Index,Pending Home Sales Index
+Personal_Income_MoM,Personal Income (MoM)
+Personal_Spending_MoM,Personal Spending (MoM)
+Private_Nonfarm_Payrolls,Private Nonfarm Payrolls
+Real_Consumer_Spending,Real Consumer Spending
+Real_Earnings_MoM,Real Earnings (MoM)
+Real_Personal_Consumption_MoM,Real Personal Consumption (MoM)
+Retail_Control_MoM,Retail Control (MoM)
+Retail_Inventories_Ex_Auto,Retail Inventories Ex Auto
+Retail_Sales_MoM,Retail Sales (MoM)
+Retail_Sales_YoY,Retail Sales (YoY)
+Retail_Sales_Ex_GasAutos_MoM,Retail Sales Ex Gas/Autos (MoM)
+SP_Global_Composite_PMI,S&P Global Composite PMI
+SP_Global_Services_PMI,S&P Global Services PMI
+SP_Global_US_Manufacturing_PMI,S&P Global US Manufacturing PMI
+US_Leading_Index_MoM,US Leading Index (MoM)
+Unemployment_Rate,Unemployment Rate
+Unit_Labor_Costs,Unit Labor Costs
+Wholesale_Inventories_MoM,Wholesale Inventories (MoM)
+Wholesale_Trade_Sales_MoM,Wholesale Trade Sales (MoM)

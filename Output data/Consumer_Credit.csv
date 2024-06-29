@@ -1,19 +1,17 @@
 Cur.,Imp.,Event,Actual,Forecast,Previous,datetime
-USD,2.0,Consumer Credit (Nov),27.96B,25.00B,29.12B,2023-01-09 20:00:00
-USD,2.0,Consumer Credit (Dec),11.56B,25.00B,33.11B,2023-02-07 20:00:00
-USD,2.0,Consumer Credit (Jan),14.80B,20.00B,10.69B,2023-03-07 20:00:00
-USD,2.0,Consumer Credit,15.29B,,19.47B,2023-04-07 19:00:00
-USD,2.0,Consumer Credit (Mar),26.51B,16.50B,15.03B,2023-05-04 19:00:00
-USD,2.0,Consumer Credit (Apr),23.01B,22.00B,22.84B,2023-06-07 19:00:00
-USD,2.0,Consumer Credit (May),7.24B,20.50B,20.32B,2023-07-10 19:00:00
-USD,2.0,Consumer Credit (Jun),17.85B,13.00B,9.46B,2023-08-07 19:00:00
-USD,2.0,Consumer Credit (Jul),10.40B,16.00B,17.85B,2023-09-08 19:00:00
-USD,2.0,Consumer Credit (Aug),-15.63B,11.70B,10.99B,2023-10-06 19:00:00
-USD,2.0,Consumer Credit (Sep),9.06B,10.00B,-15.79B,2023-11-07 20:00:00
-USD,2.0,Consumer Credit (Oct),5.13B,9.00B,12.22B,2023-12-07 20:00:00
-USD,2.0,Consumer Credit (Nov),23.75B,9.00B,5.78B,2024-01-08 20:00:00
-USD,2.0,Consumer Credit (Dec),1.56B,14.90B,23.48B,2024-02-07 20:00:00
-USD,2.0,Consumer Credit (Jan),19.49B,10.10B,0.92B,2024-03-07 20:00:00
-USD,2.0,Consumer Credit (Feb),14.12B,16.20B,17.68B,2024-04-05 19:00:00
-USD,2.0,Consumer Credit (Mar),6.27B,14.80B,15.02B,2024-05-07 19:00:00
-USD,2.0,Consumer Credit (Apr),,,6.27B,2024-06-07 19:00:00
+USD,2.0,Consumer Credit (Nov),27.96B,25.00B,29.12B,1/9/2023 20:00
+USD,2.0,Consumer Credit (Dec),11.56B,25.00B,33.11B,2/7/2023 20:00
+USD,2.0,Consumer Credit (Jan),14.80B,20.00B,10.69B,3/7/2023 20:00
+USD,2.0,Consumer Credit,15.29B,,19.47B,4/7/2023 19:00
+USD,2.0,Consumer Credit (Mar),26.51B,16.50B,15.03B,5/4/2023 19:00
+USD,2.0,Consumer Credit (Apr),23.01B,22.00B,22.84B,6/7/2023 19:00
+USD,2.0,Consumer Credit (May),7.24B,20.50B,20.32B,7/10/2023 19:00
+USD,2.0,Consumer Credit (Jun),17.85B,13.00B,9.46B,8/7/2023 19:00
+USD,2.0,Consumer Credit (Jul),10.40B,16.00B,17.85B,9/8/2023 19:00
+USD,2.0,Consumer Credit (Aug),-15.63B,11.70B,10.99B,10/6/2023 19:00
+USD,2.0,Consumer Credit (Sep),9.06B,10.00B,-15.79B,11/7/2023 20:00
+USD,2.0,Consumer Credit (Oct),5.13B,9.00B,12.22B,12/7/2023 20:00
+USD,2.0,Consumer Credit (Nov),23.75B,9.00B,5.78B,1/8/2024 20:00
+USD,2.0,Consumer Credit (Dec),1.56B,14.90B,23.48B,2/7/2024 20:00
+USD,2.0,Consumer Credit (Jan),19.49B,10.10B,0.92B,3/7/2024 20:00
+USD,2.0,Consumer Credit (Feb),14.12B,16.20B,17.68B,4/5/2024 19:00

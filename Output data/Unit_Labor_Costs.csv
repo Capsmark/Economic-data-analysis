@@ -1,13 +1,11 @@
 Cur.,Imp.,Event,Actual,Forecast,Previous,datetime
-USD,2.0,Unit Labor Costs (QoQ) (Q4),1.10%,1.50%,2.00%,2023-02-02 13:30:00
-USD,2.0,Unit Labor Costs (QoQ) (Q4),3.20%,1.60%,2.00%,2023-03-02 13:30:00
-USD,2.0,Unit Labor Costs (QoQ) (Q1),6.30%,5.50%,3.30%,2023-05-04 12:30:00
-USD,2.0,Unit Labor Costs (QoQ) (Q1),4.20%,6.30%,3.20%,2023-06-01 12:30:00
-USD,2.0,Unit Labor Costs (QoQ) (Q2),1.60%,2.60%,3.30%,2023-08-03 12:30:00
-USD,2.0,Unit Labor Costs (QoQ) (Q2),2.20%,1.60%,4.20%,2023-09-07 12:30:00
-USD,2.0,Unit Labor Costs (QoQ) (Q3),-0.80%,0.70%,3.20%,2023-11-02 12:30:00
-USD,2.0,Unit Labor Costs (QoQ) (Q3),-1.20%,-0.90%,2.60%,2023-12-06 13:30:00
-USD,2.0,Unit Labor Costs (QoQ) (Q4),0.50%,1.30%,-1.10%,2024-02-01 13:30:00
-USD,2.0,Unit Labor Costs (QoQ) (Q4),0.40%,0.70%,0.10%,2024-03-07 13:30:00
-USD,2.0,Unit Labor Costs (QoQ) (Q1),4.70%,3.60%,0.40%,2024-05-02 12:30:00
-USD,2.0,Unit Labor Costs (QoQ) (Q1),,,4.70%,2024-06-06 12:30:00
+USD,2.0,Unit Labor Costs (QoQ) (Q4),1.10%,1.50%,2.00%,2/2/2023 13:30
+USD,2.0,Unit Labor Costs (QoQ) (Q4),3.20%,1.60%,2.00%,3/2/2023 13:30
+USD,2.0,Unit Labor Costs (QoQ) (Q1),6.30%,5.50%,3.30%,5/4/2023 12:30
+USD,2.0,Unit Labor Costs (QoQ) (Q1),4.20%,6.30%,3.20%,6/1/2023 12:30
+USD,2.0,Unit Labor Costs (QoQ) (Q2),1.60%,2.60%,3.30%,8/3/2023 12:30
+USD,2.0,Unit Labor Costs (QoQ) (Q2),2.20%,1.60%,4.20%,9/7/2023 12:30
+USD,2.0,Unit Labor Costs (QoQ) (Q3),-0.80%,0.70%,3.20%,11/2/2023 12:30
+USD,2.0,Unit Labor Costs (QoQ) (Q3),-1.20%,-0.90%,2.60%,12/6/2023 13:30
+USD,2.0,Unit Labor Costs (QoQ) (Q4),0.50%,1.30%,-1.10%,2/1/2024 13:30
+USD,2.0,Unit Labor Costs (QoQ) (Q4),0.40%,0.70%,0.10%,3/7/2024 13:30

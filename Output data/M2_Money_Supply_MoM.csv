@@ -1,18 +1,17 @@
 Cur.,Imp.,Event,Actual,Forecast,Previous,datetime
-USD,1.0,M2 Money Supply (MoM) (Dec),21.38T,,21.42T,2023-01-24 18:00:00
-USD,1.0,M2 Money Supply (MoM) (Jan),21.33T,,21.38T,2023-02-28 18:00:00
-USD,1.0,M2 Money Supply (MoM) (Feb),21.18T,,21.33T,2023-03-28 18:00:00
-USD,1.0,M2 Money Supply (MoM) (Mar),21.06T,,21.18T,2023-04-25 17:00:00
-USD,1.0,M2 Money Supply (MoM) (Apr),20.82T,,21.08T,2023-05-23 17:00:00
-USD,1.0,M2 Money Supply (MoM) (May),20.67T,,20.84T,2023-06-27 17:00:00
-USD,1.0,M2 Money Supply (MoM) (Jun),20.81T,,20.67T,2023-07-25 17:00:00
-USD,1.0,M2 Money Supply (MoM) (Jul),20.90T,,20.81T,2023-08-22 17:00:00
-USD,1.0,M2 Money Supply (MoM) (Aug),20.87T,,20.91T,2023-09-26 17:00:00
-USD,1.0,M2 Money Supply (MoM) (Sep),20.75T,,20.83T,2023-10-24 17:00:00
-USD,1.0,M2 Money Supply (MoM) (Oct),20.73T,,20.76T,2023-11-28 18:00:00
-USD,1.0,M2 Money Supply (MoM) (Nov),20.77T,,20.73T,2023-12-26 18:00:00
-USD,1.0,M2 Money Supply (MoM) (Dec),20.83T,,20.77T,2024-01-23 18:00:00
-USD,1.0,M2 Money Supply (MoM) (Jan),20.78T,,20.83T,2024-02-27 18:00:00
-USD,1.0,M2 Money Supply (MoM) (Feb),20.78T,,20.78T,2024-03-26 17:00:00
-USD,1.0,M2 Money Supply (MoM) (Mar),20.84T,,20.78T,2024-04-23 17:00:00
-USD,1.0,M2 Money Supply (MoM),,,20.84T,2024-05-28 17:00:00
+USD,1.0,M2 Money Supply (MoM) (Dec),21.38T,,21.42T,1/24/2023 18:00
+USD,1.0,M2 Money Supply (MoM) (Jan),21.33T,,21.38T,2/28/2023 18:00
+USD,1.0,M2 Money Supply (MoM) (Feb),21.18T,,21.33T,3/28/2023 18:00
+USD,1.0,M2 Money Supply (MoM) (Mar),21.06T,,21.18T,4/25/2023 17:00
+USD,1.0,M2 Money Supply (MoM) (Apr),20.82T,,21.08T,5/23/2023 17:00
+USD,1.0,M2 Money Supply (MoM) (May),20.67T,,20.84T,6/27/2023 17:00
+USD,1.0,M2 Money Supply (MoM) (Jun),20.81T,,20.67T,7/25/2023 17:00
+USD,1.0,M2 Money Supply (MoM) (Jul),20.90T,,20.81T,8/22/2023 17:00
+USD,1.0,M2 Money Supply (MoM) (Aug),20.87T,,20.91T,9/26/2023 17:00
+USD,1.0,M2 Money Supply (MoM) (Sep),20.75T,,20.83T,10/24/2023 17:00
+USD,1.0,M2 Money Supply (MoM) (Oct),20.73T,,20.76T,11/28/2023 18:00
+USD,1.0,M2 Money Supply (MoM) (Nov),20.77T,,20.73T,12/26/2023 18:00
+USD,1.0,M2 Money Supply (MoM) (Dec),20.83T,,20.77T,1/23/2024 18:00
+USD,1.0,M2 Money Supply (MoM) (Jan),20.78T,,20.83T,2/27/2024 18:00
+USD,1.0,M2 Money Supply (MoM) (Feb),20.78T,,20.78T,3/26/2024 17:00
+USD,1.0,M2 Money Supply (MoM) (Mar),20.84T,,20.78T,4/23/2024 17:00
